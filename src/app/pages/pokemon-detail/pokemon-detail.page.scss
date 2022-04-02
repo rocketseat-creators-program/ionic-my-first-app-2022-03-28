@@ -1,0 +1,21 @@
+ion-card {
+    ion-card-header {
+        text-align: center;
+
+        ion-thumbnail {
+            --size: 100%;
+
+            .thumb-img {
+                width: 220px;
+                height: 220px;
+            }
+        }
+    }
+
+    ion-card-content {
+        p {
+            font-size: 12pt;
+            color: #ffffff;
+        }
+    }
+}
