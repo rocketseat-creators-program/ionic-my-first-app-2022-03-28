@@ -4,7 +4,7 @@
 
 Nessa aula iremos conhecer o Ionic Framework, vamos abordar alguns dos seus componentes e aprender a utilizar a CLI para criar a aplicação e também alguns componentes. Além disso, aprenderemos a consumir um serviço externo (Fake API que retorna uma lista de Pokemons) e listar todas essas informações em uma tela. 
 
-- [Template utilizado na aula](https://github.com/rocketseat-experts-club/angular-calendar-2022-03-01/tree/template)
+- [Template utilizado na aula](https://github.com/rocketseat-experts-club/ionic-my-first-app-2022-03-28/tree/template)
 
 ## Tecnologias
 
